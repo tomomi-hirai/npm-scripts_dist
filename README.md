@@ -1,4 +1,4 @@
-# MPG FE勉強会 - npm scripts -
+# 2021年1月 FE勉強会 - npm scripts -
 
 ## 目標
 npm scripts を使って、最低限の機能を備えた環境構築ができるようになる
